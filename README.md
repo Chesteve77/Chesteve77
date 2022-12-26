@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chesteve77
-- ✨ I'm a graduate electrical engineer and an aspiring software engineer
+- ✨ I'm a graduate and practicing electrical engineer and an aspiring software engineer
 - 👀 I’m interested in Technological Innovations
 - 🌱 I’m currently learning ALX Software Engineering
 - 💞️ I’m looking to collaborate on technological projects
